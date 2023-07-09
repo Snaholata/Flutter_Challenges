@@ -11,7 +11,7 @@ It is an app where there will be several stories, and each story will continue i
 
 <a href="https://github.com/Snaholata/Destini.git">Here is the code</a>
 
-2) Flash Chat:
+3) Flash Chat:
 It is a messenger app incorporating Firebase Firestore, which also includes the Firebase authentication package and cloud NoSQL database.
 
 <a href="https://github.com/Snaholata/Flash_Chat.git">Here is the code</a>
